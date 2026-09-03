@@ -1,0 +1,7 @@
+Variable,Description
+Humidity3pm,Relative humidity at 3pm (%)
+RainTomorrow,Whether it rained the following day
+RainToday,Whether it rained that day
+Rainfall,Rainfall amount (mm)
+Location,Australian weather station/location
+Date,Observation date

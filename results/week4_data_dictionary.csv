@@ -1,0 +1,6 @@
+Variable,Role,Description
+RainTomorrow,Target,Whether it rained the following day
+Humidity3pm,Weather feature,Relative humidity at 3pm (%)
+RainToday,Weather feature,Whether it rained on the observation day
+RISK_MM,Excluded leakage variable,Amount of rainfall on the following day; excluded because it leaks future information
+Date,Excluded identifier/time field,Observation date; excluded from the basic model
